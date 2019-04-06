@@ -1,0 +1,17 @@
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.deps.json
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.dll
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.pdb
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.csproj.CoreCompileInputs.cache
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.AssemblyInfoInputs.cache
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.AssemblyInfo.cs
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.dll
+D:\MarsRover\MarsRover\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.pdb
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.deps.json
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.dll
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.pdb
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.AssemblyInfo.cs
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.dll
+C:\Users\Murat\Desktop\MarsRover\Libraries\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.pdb
